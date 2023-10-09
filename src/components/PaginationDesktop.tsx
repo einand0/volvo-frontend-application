@@ -1,5 +1,4 @@
 import { IconButton } from "vcc-ui";
-import ChevronIcon from "../../public/css/components/icons/chevron-icon";
 
 import styles from '../../public/css/paginationDesktop.module.css'
 
